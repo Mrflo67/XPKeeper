@@ -1,22 +1,22 @@
-Ceci à été traduit par DragonSlayer875 Fondateur de www.config-plugin.com
+Ceci a été traduit par DragonSlayer875 Fondateur de www.config-plugin.com
 
 messages:
   have_sign: Vous avez deja un panneau pour deposer votre XP dans ce monde !
-  no_perms_create: Vous avez pas la permission de faire un panneau pour deposer votre XP !
-  no_perms_command: Vous avez pas la permission d utiliser cette commande !
-  arguments: Pas assez d argument dans votre commande !
-  no_player: Aucun joueur trouver !
+  no_perms_create: Vous n avez pas la permission de faire un panneau pour deposer votre XP !
+  no_perms_command: Vous n avez pas la permission d utiliser cette commande !
+  arguments: Pas assez d arguments dans votre commande !
+  no_player: Aucun joueur trouve !
   removed: Votre panneau XP a bien ete supprimer avec succes.
   use_fist: Vous devez deposer votre XP avec votre poing.
-  deposit: Vous avez deposer %d XP et avez atteint le niveau %d :)
-  withdraw_all: Vous avez retirer tout vos XP.
-  withdraw_some: Vous avez retirer %d XP Niveaux !
-  not_your_sign: Vous n avez pas de panneau creer en un !
-  click_sign: Frappez votre panneaux XP pour le supprimez.
-  no_sign: Impossible de trouver le panneaux !
+  deposit: Vous avez depose %d XP et avez atteint le niveau %d :)
+  withdraw_all: Vous avez retire tous vos XP.
+  withdraw_some: Vous avez retire %d niveaux d XP !
+  not_your_sign: Vous n avez pas de panneau creez-en un !
+  click_sign: Frappez votre panneau XP pour le supprimer.
+  no_sign: Impossible de trouver le panneau !
   look_sign: Vous ne regardez pas votre panneau !
   not_enough: Vous n avez pas assez d XP a deposer !
-  giver: Vous avez payer %s %d XP :)
+  giver: Vous avez paye %s %d XP :)
   reciever: '%s vous recevez %d XP :)'
-  use_command: Veuillez utiliser la commande /xpkremove pour supprimez votre panneau XP !
-  no_grief: Arreter d essayer de casser ce panneau !
+  use_command: Veuillez utiliser la commande /xpkremove pour supprimer votre panneau XP !
+  no_grief: Arretez d essayer de casser ce panneau !
